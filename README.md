@@ -8,4 +8,5 @@ for admin side, can be accessed at :
 http://rsudcurup.mywebcommunity.org/operator/login.php
 
 username : admin
+
 passowrd : rahasia
