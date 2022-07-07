@@ -9,4 +9,4 @@ http://rsudcurup.mywebcommunity.org/operator/login.php
 
 username : admin
 
-passowrd : rahasia
+password : rahasia
